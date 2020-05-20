@@ -1,6 +1,6 @@
 # Pipe Vibration Anlysis
 ## Introduction
-This project shows a sample of pipe vibration analysis.
+This project shows an example of pipe vibration analysis.
 
 ![CaptureANSYS02.PNG](https://github.com/HugoNip/PipeVibrationAnlysis/blob/master/Results/CaptureANSYS02.PNG)
 
